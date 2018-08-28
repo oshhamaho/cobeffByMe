@@ -1,0 +1,77 @@
+.site-header {
+    background-color: rgb(197,172,116);
+}
+
+.site-header a{
+    list-style: none;
+    color: #f9f9f9;
+    transition: ease-in-out color .15s;
+}
+
+.p-2 {
+    padding: 2.5rem !important;
+}
+
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: rgb(249, 100, 129);
+}
+
+#siteF{
+    background: linear-gradient( 180deg, rgb(197,172,116) 2%, rgb(197,172,116) 49%, rgb(197,172,116) 50%, transparent 50%, transparent 100% ) ;
+}
+
+
+.partenaire{
+    padding: 2.5rem !important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(197, 172, 116);
+}
+
+.border {
+    background-color: rgb(240, 239, 236);
+}
+
+.border-primary{
+    border-color: white !important;
+}
+
+#round {
+    border-radius: 6rem !important;
+    height: 100%;
+}
+
+
+#color{
+    background: linear-gradient(              -16deg,              rgb(197,172,116) 0%,              rgb(197,172,116) 50%,              transparent 40%,              transparent 100%      );
+}
+
+#color2{
+    background: linear-gradient(              17deg,              rgb(197,172,116) 0%,              rgb(197,172,116) 50%,              transparent 40%,              transparent 100%      );
+}
+
+#deroulant{
+    position: unset !important;
+
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: #c82333;
+    text-decoration: none;
+}
+
+h5:hover{
+color: #407e17;
+}
+
+
+#barette{
+    background: linear-gradient( -10deg, rgba(191, 163, 60, 0.85) 0%, rgba(60, 56, 15, 0.38) 50%, transparent 40%, transparent 100% );
+}
+
+
