@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7550be2b-ce78-4e83-a815-25b94fe6a439" name="Default" comment="" />
+    <list default="true" id="7550be2b-ce78-4e83-a815-25b94fe6a439" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v/menu.php" afterPath="$PROJECT_DIR$/v/menu.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +37,8 @@
       <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="54" column="100" lean-forward="false" selection-start-line="54" selection-start-column="100" selection-end-line="54" selection-end-column="100" />
+            <state relative-caret-position="17">
+              <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -344,12 +346,12 @@
       <workItem from="1535010987132" duration="9044000" />
       <workItem from="1535369378041" duration="10136000" />
       <workItem from="1535398253165" duration="2266000" />
-      <workItem from="1535483358007" duration="6783000" />
+      <workItem from="1535483358007" duration="7317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37056000" />
+    <option name="totallyTimeSpent" value="37590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
@@ -661,8 +663,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="54" column="100" lean-forward="false" selection-start-line="54" selection-start-column="100" selection-end-line="54" selection-end-column="100" />
+        <state relative-caret-position="17">
+          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
           <folding />
         </state>
       </provider>
