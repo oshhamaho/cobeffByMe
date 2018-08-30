@@ -12,7 +12,7 @@
                             class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="./?page=nousConnaitre">Nous connaître</a>
+                <a class="nav-link link" href="./?page=nousConnaitre">Nous connaître</a>
             </li>
 
 
@@ -24,35 +24,35 @@
                         Nos formations
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./?page=seFormer&vendeuse">Vendeuse polyvalente</a>
+                        <a class="nav-link link" href="./?page=seFormer&vendeuse">Vendeuse polyvalente</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./?page=seFormer&cuisine">Cuisine et service en salle</a>
+                        <a class="nav-link link" href="./?page=seFormer&cuisine">Cuisine et service en salle</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./?page=seFormer&auxiliaire">Auxiliaire de l'enfance</a>
+                        <a class="nav-link link" href="./?page=seFormer&auxiliaire">Auxiliaire de l'enfance</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./?page=seFormer&services">Services aux personnes / Aide soignante</a>
+                        <a class="nav-link link" href="./?page=seFormer&services">Services aux personnes / Aide soignante</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./?page=seFormer&entretien">Agent d'entretien en milieu
+                        <a class="nav-link link" href="./?page=seFormer&entretien">Agent d'entretien en milieu
                             hospitalier</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./?page=seFormer&jury">Préparation au jury du 2eme degré</a>
+                        <a class="nav-link link" href="./?page=seFormer&jury">Préparation au jury du 2eme degré</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./?page=seFormer&cess">Complément CESS</a>
+                        <a class="nav-link link" href="./?page=seFormer&cess">Complément CESS</a>
                     </li>
                 </ul>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="./?page=nousContacter">Nous contacter</a>
+                <a class="nav-link link" href="./?page=nousContacter">Nous contacter</a>
             </li>
             <li class="nav-item">
-                <a id="link" class="nav-link disabled" href="./?page=resto">Le restaurant Antoinette</a>
+                <a  class="nav-link disabled link" href="./?page=resto">Le restaurant Antoinette</a>
             </li>
         </ul>
     </div>

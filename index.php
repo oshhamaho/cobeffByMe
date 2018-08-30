@@ -43,18 +43,18 @@ require_once "v/footer.php";
 
         $(document).ready(function () {
 
-            $('body').css('display', 'none');
+            $('.ciao').css('display', 'none');
 
-            $('body').fadeIn(1000);
+            $('.ciao').fadeIn(1000);
 
 
-            $('#link').click(function () {
+            $('.link').click(function () {
 
                 event.preventDefault();
 
                 newLocation = this.href;
 
-                $('body').fadeOut(2000, newpage);
+                $('.ciao').fadeOut(2000, newpage);
 
             });
 
