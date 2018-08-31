@@ -37,14 +37,15 @@
     border-color: white !important;
 }
 
-#round {
-    border-radius: 6rem !important;
+.round {
+
     height: 100%;
 }
 
 
 #color{
     background: linear-gradient(              -16deg,              rgb(197,172,116) 0%,              rgb(197,172,116) 53%,              transparent 40%,              transparent 100%      );
+
 
 }
 
@@ -94,4 +95,26 @@ color: #407e17;
 .btn-primary :hover{
     background-color: #c5ac747a;
     border-color: #f6dcd3;
+}
+
+#fb{
+color:rgb(63,88,144);
+}
+
+#linkdin{
+    color: rgb(30,111,171);
+
+}
+
+#ovale{
+    position: absolute;
+    height: 35em;
+    width: 35em;
+    background: #ff0000cc;
+    -ms-transform: rotate(145deg);
+    -moz-transform: rotate(145deg);
+    -webkit-transform: rotate(145deg);
+    -o-transform: rotate(145deg);
+    opacity: 0.5;
+}
 }

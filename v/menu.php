@@ -20,10 +20,10 @@
         </form>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a type="button" class="btn-floating btn-lg btn-fb"><i class="fab fa-facebook-f"></i></a>
+                <a id="fb" type="button" class="btn-floating btn-lg btn-fb"><i class="fab fa-facebook-f"></i></a>
             </li>
             <li>
-                <a type="button" class="btn-floating btn-lg btn-fb"><i class="fab fa-linkedin"></i></a>
+                <a id="linkdin" type="button" class="btn-floating btn-lg btn-fb"><i class="fab fa-linkedin"></i></a>
             </li>
         </ul>
     </div>
