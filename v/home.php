@@ -2,8 +2,8 @@
 <center>
     <div id="color">
         <div id="color2">
-
             <div id="photos">
+
                 <img src="./assets/img/Photosachetees/servicesalle1.jpg" height="100" width="100">
                 <img src="./assets/img/Photosachetees/aideaupersonne.jpg" height="100" width="100">
                 <img src="./assets/img/Photosachetees/aideaupersonne3.jpg" height="100" width="100">
@@ -104,13 +104,9 @@
                 <img src="./assets/img/Photosachetees/cuisine.jpg" height="100" width="100">
                 <img src="./assets/img/Photosachetees/auxiliaire.jpg" height="100" width="100">
             </div>
-            <!--<div class="container">
-                <div class="row">
-                    <div class="col-sm-12 p-4">
-                        <img src="./assets/img/Logo_Cobeff_Petit.jpg" class="rounded mx-auto d-block" alt="cobeff">
-                    </div>
-                </div>
-            </div>-->
+
+
+
 
             <div class="container">
                 <div class="row">

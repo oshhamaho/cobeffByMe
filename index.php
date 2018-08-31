@@ -18,9 +18,14 @@ require_once "v/footer.php";
 
 ?>
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 <link rel="stylesheet" href="assets/css/bootstrap.css"/>
 <link rel="stylesheet" href="assets/css/style.css"/>
-
+<link rel="stylesheet" href="assets/css/bootstrap-grid.css"/>
+<link rel="stylesheet" href="assets/css/bootstrap-reboot.css"/>
+<link rel="stylesheet" href="assets/css/bootstrap-grid.css.map"/>
+<link rel="stylesheet" href="assets/css/bootstrap-reboot.css.map"/>
+<link rel="stylesheet" href="assets/css/bootstrap-reboot.css.map"/>
 
 <script type="text/javascript" src="assets/js/jquery.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.js"></script>

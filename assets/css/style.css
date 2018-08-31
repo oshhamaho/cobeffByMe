@@ -79,4 +79,19 @@ color: #407e17;
 #photos{
     position: relative;
     z-index: -1;
+    opacity: 0.3;
+}
+
+#logo{
+
+}
+
+.btn-primary{
+    background-color: #c5ac747a;
+    border-color: #f6dcd3;
+}
+
+.btn-primary :hover{
+    background-color: #c5ac747a;
+    border-color: #f6dcd3;
 }
