@@ -20,6 +20,9 @@
     background: linear-gradient( 180deg, rgb(197,172,116) 2%, rgb(197,172,116) 49%, rgb(197,172,116) 50%, transparent 50%, transparent 100% ) ;
 }
 
+.nous{
+    background: linear-gradient( 29deg, rgb(197,172,116) 0%, rgb(197,172,116) 53%, transparent 40%, transparent 100% );
+}
 
 .partenaire{
     padding: 2.5rem !important;
@@ -37,18 +40,22 @@
     border-color: white !important;
 }
 
-#round {
-    border-radius: 6rem !important;
+.round {
+
     height: 100%;
 }
 
 
+
 #color{
-    background: linear-gradient(              -16deg,              rgb(197,172,116) 0%,              rgb(197,172,116) 50%,              transparent 40%,              transparent 100%      );
+    background: linear-gradient(              -16deg,              rgb(197,172,116) 0%,              rgb(197,172,116) 53%,              transparent 40%,              transparent 100%      );
+
+
 }
 
 #color2{
-    background: linear-gradient(              17deg,              rgb(197,172,116) 0%,              rgb(197,172,116) 50%,              transparent 40%,              transparent 100%      );
+    background: linear-gradient(              17deg,              rgb(197,172,116) 0%,              rgb(197,172,116) 53%,              transparent 40%,              transparent 100%      );
+
 }
 
 #deroulant{
@@ -67,11 +74,86 @@ a{
 
 h5:hover{
 color: #407e17;
+    opacity: 0.7;
 }
 
+h4{
+    opacity: 0.7;
+}
 
 #barette{
     background: linear-gradient( -10deg, rgba(191, 163, 60, 0.85) 0%, rgba(60, 56, 15, 0.38) 50%, transparent 40%, transparent 100% );
 }
 
+#photos{
+    position: relative;
+    z-index: -1;
+    opacity: 0.3;
+}
 
+#logo{
+
+}
+
+.btn-primary{
+    background-color: #c5ac747a;
+    border-color: #f6dcd3;
+}
+
+.btn-primary :hover{
+    background-color: #c5ac747a;
+    border-color: #f6dcd3;
+}
+
+#fb{
+color:rgb(63,88,144);
+}
+
+#linkdin{
+    color: rgb(30,111,171);
+
+}
+
+#ovale{
+    position: absolute;
+    height: 35em;
+    width: 35em;
+    background: #ff0000cc;
+    -ms-transform: rotate(145deg);
+    -moz-transform: rotate(145deg);
+    -webkit-transform: rotate(145deg);
+    -o-transform: rotate(145deg);
+    opacity: 0.5;
+}
+
+h1{
+    opacity: 0.7 !important;
+}
+
+.overlay-contentpush{
+background:  rgb(197,172,116) 0% !important;
+
+}
+
+.list-group-item.active {
+    color: #fff;
+    background-color: rgba(187, 69, 14, 0.4)!important;
+    border-color: #f49f4840!important;
+}
+
+.test {
+    color: white !important;
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+    background: rgb(193, 133, 80) !important;
+}
+
+.colorh{
+    color: white!important;
+}
+
+
+.colorBg{
+    background-color: #d3c7aa !important;
+}

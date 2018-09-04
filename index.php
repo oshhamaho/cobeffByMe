@@ -18,13 +18,26 @@ require_once "v/footer.php";
 
 ?>
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 <link rel="stylesheet" href="assets/css/bootstrap.css"/>
 <link rel="stylesheet" href="assets/css/style.css"/>
+<link rel="stylesheet" href="assets/css/bootstrap-grid.css"/>
+<link rel="stylesheet" href="assets/css/bootstrap-reboot.css"/>
+<link rel="stylesheet" href="assets/css/bootstrap-grid.css.map"/>
+<link rel="stylesheet" href="assets/css/bootstrap-reboot.css.map"/>
+<link rel="stylesheet" href="assets/css/bootstrap-reboot.css.map"/>
+<link rel="stylesheet" href="assets/css/cssMenuResto/style7.css">
+
+
 
 
 <script type="text/javascript" src="assets/js/jquery.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="assets/js/jquery-ui.js"></script>
+<script type="text/javascript" src="assets/js/scripts.js"></script>
+<script type="text/javascript" src="assets/js/jsMenuResto/modernizr.custom.js"></script>
+<script type="text/javascript" src="assets/js/jsMenuResto/classie.js"></script>
+<script type="text/javascript" src="assets/js/jsMenuResto/demo7.js"></script>
 <script>
     $(function () {
         $("#menu").menu();
@@ -43,18 +56,18 @@ require_once "v/footer.php";
 
         $(document).ready(function () {
 
-            $('body').css('display', 'none');
+            $('.ciao').css('display', 'none');
 
-            $('body').fadeIn(1000);
+            $('.ciao').fadeIn(1000);
 
 
-            $('#link').click(function () {
+            $('.link').click(function () {
 
                 event.preventDefault();
 
                 newLocation = this.href;
 
-                $('body').fadeOut(2000, newpage);
+                $('.ciao').fadeOut(2000, newpage);
 
             });
 
@@ -67,6 +80,5 @@ require_once "v/footer.php";
         });
 
     });
-
 
 </script>

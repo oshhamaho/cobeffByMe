@@ -1,20 +1,121 @@
+<div class="ciao">
 <center>
     <div id="color">
         <div id="color2">
+            <div id="photos">
 
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 p-4">
-                        <img src="./assets/img/Logo_Cobeff_Petit.jpg" class="rounded mx-auto d-block" alt="cobeff">
-                    </div>
-                </div>
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne4.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess3.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/aideaupersonne2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/nettoyage2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/servicesalle1.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cess2.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/cuisine.jpg" height="100" width="100">
+                <img src="./assets/img/Photosachetees/mosaique/auxiliaire.jpg" height="100" width="100">
             </div>
 
+
             <div class="container">
+                <div class="container-fluid">
+                    <div class="row">
+                            <div id="ovale">
+                            </div>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-sm-6 p-2">
-                        <div id="round" class="m-1  border border-primary rounded p-3">
+                        <div id="un"  class="m-1 round  border border-primary rounded p-3">
                             <h3 href="">Se former</h3>
                             <div id="accordion">
                                 <h5 id="over" class="lead">Nos formations</h5>
@@ -26,7 +127,7 @@
                     </div>
 
                     <div class="col-sm-6 p-2">
-                        <div id="round" class="m-1  border border-primary rounded p-3">
+                        <div class="m-1 round  border border-primary rounded p-3">
                             <h3 href="">Conditions d'inscription</h3>
                             <div id="accordion-resizer" class="ui-widget-content">
                                 <div id="accordion1">
@@ -42,7 +143,7 @@
 
                 <div class="row">
                     <div class="col-sm-6 p-2">
-                        <div id="round" class="m-1  border border-primary rounded p-3">
+                        <div class="m-1 round border border-primary rounded p-3">
                             <h3 href="">Le restaurant</h3>
                             <h6>Horaires :</h6>
                             <p>Service assuré de 12h à 13h45.</p>
@@ -55,25 +156,28 @@
                         </div>
                     </div>
 
+
                     <div class="col-sm-6 p-2">
-                        <div id="round" class="m-1  border border-primary rounded p-3">
+                        <div class="m-1 round  border border-primary rounded p-3">
                             <h3 href="">Contact</h3>
                         </div>
                     </div>
                 </div>
 
+
                 <div class="row">
                     <div class="col-sm-12 p-2">
-                        <div id="round" class="m-1  border border-primary rounded p-3">
+                        <div  class="m-1 round  border border-primary rounded p-3">
                             <h3 href="">Les news</h3>
                         </div>
 
                     </div>
                 </div>
             </div>
-        </div>
-</center>
 
+
+</center>
+</div>
 <div id="siteF">
     <div class="site-footer">
         <h1 id="barette" class="display-4">Nos partenaires</h1>
@@ -93,5 +197,5 @@
         </div>
     </div>
 </div>
-
+</div>
 
