@@ -12,6 +12,8 @@
 
     </div>
 
+<img src="./assets/img/Photosachetees/vente.jpg">
+
 </div>
 
 </body>
