@@ -1,0 +1,139 @@
+.carousel-indicators--round li {
+    border-radius: 10px;
+    margin: 1px 3px;
+    height: 10px;
+    max-width: 10px;
+    border: 1px solid darkgray;
+    background-color:white ;
+
+}
+
+.carousel-indicators .active {
+    background-color: #fff;
+    max-width: 12px;
+    margin: 0 3px;
+    height: 12px;
+}
+
+.carouselExampleIndicators {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+#montexte{
+    background-color: transparent;
+    width: 50%;
+    height:20%;
+    z-index:50;
+    -webkit-transform: skew(-10deg);
+    -moz-transform: skew(-10deg);
+    -o-transform: skew(-10deg);
+    object-position: right;
+    position: relative;
+    margin-top: 50%;
+    margin-left: 45%;
+}
+#montexte p{
+    font-size: 0.7vw;
+    color: black;
+    justify-content: right;
+    margin: 10% 10%;
+    text-align: center;
+}
+#triangle{
+    position: absolute;
+    background-color: darkgrey;
+    opacity: 0.5;
+    width: 50%;
+    height:100%;
+    left:-20%;
+    z-index:50;
+    -webkit-transform: skew(10deg);
+    -moz-transform: skew(10deg);
+    -o-transform: skew(10deg);
+}
+
+.container-fluid {
+    padding: 0;
+}
+.container-fluid-1 {
+    margin: 7% 3% 7% 3%;
+    display: flex;
+    height: auto;
+}
+.container-1{
+    width:40%;
+    font-size:0.8vw;
+    text-align: center;
+    background-color: rgb(193, 179, 155);
+    padding: 4% 4%;
+    height: auto;
+}
+.container-2{
+
+    /* font-size: 50%; */
+
+    /* object-position: right; */
+
+    width: 60%;
+
+    display: grid;
+
+    border: ghostwhite;
+
+    margin: 0 0 0 10%;
+
+    height: auto;
+
+    padding: 0;
+
+    grid-template-columns:  1fr 0.5fr;
+}
+
+#rectangle {
+    background-color: darkgrey;
+
+}
+
+.carousel.fade{
+    opacity: 1;
+}
+.carousel.fade .item{
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity .5s;
+}
+.carousel.fade .item.active{
+    position: relative;
+    opacity: 1;
+}
+.carousel-indicators--round li {
+    border-radius: 10px;
+    margin: 1px 3px;
+    height: 10px;
+    max-width: 10px;
+    border: 1px solid darkgray;
+    background-color:white ;
+
+}
+#texte{
+    width: auto;
+    height: auto;
+    background-color: lightgray;
+    opacity: 0.5;
+}
+#texte p{
+    font-size: 0.8vw;
+    color: black;
+    padding: 5%;
+    text-align: center;
+}
+h6, .h6 {
+    font-size: 2vw;
+}
