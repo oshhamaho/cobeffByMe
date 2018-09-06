@@ -14,7 +14,7 @@
         <div class="card">
             <img class="card-img-top" src="./assets/img/Photosachetees/restaurant/resto.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">C'est quoi le restaurant Antoinette ?</h5>
+                <h4 class="card-title">C'est quoi le restaurant Antoinette ?</h4>
                 <p class="card-text"><p>Antoinette, le restaurant d’application de la Cobeff, est un lieu d’apprentissage et de formation. En être client, c’est participer à notre action d’insertion.</p>
 
 
@@ -35,7 +35,7 @@
         <div class="card">
             <img class="card-img-top" src="./assets/img/Photosachetees/restaurant/resto2.jpg" alt="Card image cap">
             <div class="card-body">
-                <h5 class="card-title">Le menu</h5>
+                <h4 class="card-title"><a href="#">Le menu</a></h4>
                 <p class="card-text">Retrouver ici le menu hebdomadaire du restaurant Antoinette !</p>
             </div>
         </div>
@@ -69,39 +69,40 @@
         </div>
         <div class="card text-center">
             <div class="card-body">
-                <h5 class="card-title">Les tarifs</h5>
+                <h4 class="card-title">Les tarifs</h4>
                 <div class="card bg-primary text-white text-center p-3">
                     <blockquote class="blockquote mb-0">
                         <small>
 
-                            <p>Menu du jour</p>
+                            <strong>Menu du jour</strong>
                             <em>(Potage ou Entrée + Plat +Dessert)</em> 10,00€
 
-                       <p>​Potage ou Entrée</p>2,50€
-
-                            <p>​Grande Entrée</p>5,00€
-
-                            <p>​Plat</p> 6,50€
-
-                            <p>​Suggestion</p> 6,50€
-
-                            <p>​Supplément légumes</p> 1,00€
-
-                            <p>​Dessert</p> 2,00€<
-
-                            <p>​Soft (33cl.)</p> 1,20€
-
-                            <p>​Eau plate (50cl.)</p> 1,20€
-
-                            <p>​Vin - le verre</p> 1,80
-
-                           <p>​Vin - 1/4</p> 3,50€
-
-                            <p>​Vin - 1/2</p> 7,50€
-
-                           <p>​Vin - la bouteille</p> 10,00€
-
-                            <p>​Café/Thé</p> 1,20€
+                            <br>
+                            <strong>​Potage ou Entrée</strong> 2,50€
+                            <br>
+                            <strong>Grande Entrée</strong> 5,00€
+                            <br>
+                                <strong>​Plat</strong> 6,50€
+                            <br>
+                                <strong>​Suggestion</strong> 6,50€
+                            <br>
+                                <strong>Supplément légumes</strong> 1,00€
+                            <br>
+                                ​<strong>Dessert</strong> 2,00€
+                            <br>
+                            <strong>​Soft (33cl.)</strong> 1,20€
+                            <br>
+                            <strong>Eau plate (50cl.)</strong> 1,20€
+                            <br>
+                            ​<strong>Vin - le verre</strong> 1,80
+                            <br>
+                            <strong>​Vin - 1/4</strong> 3,50€
+                            <br>
+                            <strong>​Vin - 1/2</strong> 7,50€
+                            <br>
+                           ​<strong>Vin - la bouteille</strong> 10,00€
+                            <br>
+                            <strong>Café/Thé</strong> 1,20€
 
                         </small>
                         <footer class="footer">
@@ -127,7 +128,7 @@
         </div>
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">Horaire et accés</h5>
+                <h4 class="card-title">Horaire et accés</h4>
 
                 <p> Service assuré de 12h à 13h45.</p>
                 <p class="card-text">
