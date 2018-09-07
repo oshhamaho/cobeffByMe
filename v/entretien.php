@@ -8,7 +8,7 @@
 <body>
 <div class="container ciao">
     <div class="row">
-        <h1>Agent d'entretien en milieu hospitalier</h1>
+        <h1 class="display-3">Agent d'entretien en milieu hospitalier</h1>
 
     </div>
 

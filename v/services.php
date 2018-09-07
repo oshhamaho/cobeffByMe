@@ -8,7 +8,7 @@
 <body>
 <div class="container ciao">
     <div class="row">
-        <h1>Services aux personnes / Aide soignante</h1>
+        <h1 class="display-3">Services aux personnes / Aide soignante</h1>
 
     </div>
 
