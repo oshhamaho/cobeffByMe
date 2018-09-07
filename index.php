@@ -34,6 +34,7 @@ require_once "v/footer.php";
 <script type="text/javascript" src="assets/js/jquery.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="assets/js/jquery-ui.js"></script>
+<script type="text/javascript" src="assets/js/scripts.js"></script>
 <script type="text/javascript" src="assets/js/jsMenuResto/modernizr.custom.js"></script>
 <script type="text/javascript" src="assets/js/jsMenuResto/classie.js"></script>
 <script type="text/javascript" src="assets/js/jsMenuResto/demo7.js"></script>
@@ -79,6 +80,5 @@ require_once "v/footer.php";
         });
 
     });
-
 
 </script>
