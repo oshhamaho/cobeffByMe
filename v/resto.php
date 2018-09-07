@@ -25,16 +25,6 @@
                     </p>
                 </div>
             </div>
-            <div class="card p-3">
-                <blockquote class="blockquote mb-0 card-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                    <footer class="blockquote-footer">
-                        <small class="text-muted">
-                            Someone famous in <cite title="Source Title">Source Title</cite>
-                        </small>
-                    </footer>
-                </blockquote>
-            </div>
             <div class="card">
                 <img class="card-img-top" src="./assets/img/Photosachetees/restaurant/resto2.jpg" alt="Card image cap">
                 <div class="card-body">
@@ -48,7 +38,7 @@
                 </div>
             </div>
 
-            <div class="card bg-primary text-white text-center p-3">
+            <div class="card bg-primary text-white text-center p-3 colorBg">
                 <blockquote class="blockquote mb-0">
                     <p>Cher(es) client(es),</p>
 
@@ -81,7 +71,7 @@
             <div class="card text-center">
                 <div class="card-body">
                     <h4 class="card-title">Les tarifs</h4>
-                    <div class="card bg-primary text-white text-center p-3">
+                    <div class="card bg-primary text-white text-center p-3 colorBg">
                         <blockquote class="blockquote mb-0">
                             <small>
 
@@ -129,12 +119,26 @@
             </div>
             <div class="card p-3 text-right">
                 <blockquote class="blockquote mb-0">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                    <footer class="blockquote-footer">
-                        <small class="text-muted">
-                            Someone famous in <cite title="Source Title">Source Title</cite>
-                        </small>
-                    </footer>
+                    <div class="card">
+                        <div class="card-body px-lg-5">
+                            <form class="text-center" style="color: #757575;">
+                                <p>
+                                    <a href="" target="_blank">Abonnez-vous à la Newsletter</a>
+                                </p>
+                                <div class="md-form mt-3">
+                                    <input type="text" id="materialSubscriptionFormPasswords" class="form-control">
+                                    <label for="materialSubscriptionFormPasswords">Nom</label>
+                                </div>
+                                <div class="md-form">
+                                    <input type="email" id="materialSubscriptionFormEmail" class="form-control">
+                                    <label for="materialSubscriptionFormEmail">E-mail</label>
+                                </div>
+                                <button class="btn btn-outline-info btn-rounded btn-block z-depth-0 my-4 waves-effect" type="submit">Valider</button>
+
+                            </form>
+                        </div>
+
+                    </div>
                 </blockquote>
             </div>
             <div class="card">
@@ -155,19 +159,40 @@
                         Bus 59 arrêt "Geefs".</p>
                 </div>
             </div>
+
+            <div class="card p-3">
+                <h5 class="card-header info-color white-text text-center py-4 display-5">
+                    Nos partenaires
+                </h5>
+                <blockquote class="blockquote mb-0 card-body">
+                    <div class="container">
+                        <div class="row">
+
+                            <img src="./assets/img/partenaire/actiris_FR_2012.jpg" height="100" width="100"
+                                 class="rounded mx-auto d-block " alt="actiris">
+                            <img src="./assets/img/partenaire/BXLformation.png" class="rounded mx-auto d-block"
+                                 alt="bxlformation"
+                                 width="100" height="100">
+                            <img src="./assets/img/partenaire/FSE-UE-COCOF.jpg" class="rounded mx-auto d-block" alt="fse"
+                                 height="100"
+                                 width="100">
+                        </div>
+                    </div>
+                </blockquote>
+            </div>
+
         </div>
-
     </div>
-
 </div>
+
 
 <div id="centrer">
 <div class="overlay overlay-contentpush">
-    <button type="button" class="overlay-close">Close</button>
-        <h1>Les menus</h1>
+    <button type="button" class="overlay-close">Fermer</button>
+        <h1 align="center" class="display-1 colorh">Les menus</h1>
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-12 p-2">
                 <center>
                 <div class="list-group" id="list-tab" role="tablist">
                     <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">​​Mardi 29 mai</a>
@@ -181,9 +206,9 @@
             </div>
         </div>
     <center>
-        <div class="jumbotron jumbotron-fluid">
+        <div class="jumbotron jumbotron-fluid test">
             <div class="container">
-            <div class="col-12">
+            <div class="col-12 p-2">
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">Entrée : Tajine au fromage
                         Plat : Poulet à la canelle et aux légumes
