@@ -48,7 +48,7 @@
 
             <li class="nav-item">
 
-                <a class="nav-link" href="./?page=seFormer">Se former</a>
+                <a class="nav-link " href="./?page=seFormer" class="dropdown-toggle" data-toggle="dropdown">Se former</a>
                 <ul id="deroulant">
                     <li class="nav-link disabled">
                         Nos formations

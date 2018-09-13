@@ -1,3 +1,4 @@
+<?php  require_once "./v/header.php";?>
 <div class="ciao">
 <center>
     <div id="color">

@@ -2,8 +2,8 @@
 /**
  * index
  */
-require_once "v/header.php";
-require_once "v/menu.php";
+
+
 
 if (isset($_GET['page'])) {
     if (isset($_GET['pageAdmin'])) {
@@ -26,10 +26,21 @@ require_once "v/footer.php";
 <link rel="stylesheet" href="assets/css/bootstrap-grid.css.map"/>
 <link rel="stylesheet" href="assets/css/bootstrap-reboot.css.map"/>
 <link rel="stylesheet" href="assets/css/bootstrap-reboot.css.map"/>
+<link rel="stylesheet" href="assets/css/cssMenuResto/style7.css">
+
+
+
+
+
+
 
 <script type="text/javascript" src="assets/js/jquery.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="assets/js/jquery-ui.js"></script>
+<script type="text/javascript" src="assets/js/jsSlideAccueil/slide.js"></script>
+<script type="text/javascript" src="assets/js/jsMenuResto/modernizr.custom.js"></script>
+<script type="text/javascript" src="assets/js/jsMenuResto/classie.js"></script>
+<script type="text/javascript" src="assets/js/jsMenuResto/demo7.js"></script>
 <script>
     $(function () {
         $("#menu").menu();
@@ -72,6 +83,7 @@ require_once "v/footer.php";
         });
 
     });
+
 
 
 </script>
