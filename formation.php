@@ -85,26 +85,38 @@
 <div class="container-fluid">
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators carousel-indicators--round">
-            <li class="active" data-target="#carouselExampleIndicators" data-slide-to="0"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
-        <!-- Figure geometrique -->
+          <ol class="carousel-indicators carousel-indicators--round">
+              <li class="active" data-target="#carouselExampleIndicators" data-slide-to="0"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          </ol>
+
+
+          <!-- Figure geometrique -->
         <div id="triangle">
             <div id="montexte"> <!-- Texte -->
-                <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse felis sem, ultricies et fermentum sed, bibendum at libero. Proin tempor ligula quis purus scelerisque, at interdum justo placerat. Curabitur sed elementum sem, a dapibus diam. Quisque convallis nisi at ipsum cursus ultricies. Donec placerat odio eu pellentesque eleifend. Sed at mattis nisi, vel posuere justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut est nunc, molestie vitae nisi quis, sollicitudin vestibulum ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla sagittis vitae risus non tempor.</strong></p>
+                <p><strong><h6>Un métier<h6>
+                        <p>Caissière en supermarché,
+                        Vendeuse en boutique,
+                        Polyvalente caisse-vente-réassortiment,
+                        Des métiers qui demandent dynamisme, goût des contacts humains,
+                    débrouillardise, souci de la présentation.</p>
+
+                       <h6>Une formation qualifiante</h6>
+
+                <p>Programme de 917 heures organisé de septembre à juin sur 5 jours/semaine</p>
+                        de 8h30 à 16h30.</strong></p>
             </div>
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active"> <!-- Les photos -->
-                <img src="assets/img/Photosachetees/PhotoSlide/aidePersonne.jpg" alt="" class="d-block w-100">
+                <img src="assets/img/Photosachetees/PhotoSlide/2752247_lweb.jpg" alt="" class="d-block w-100">
             </div>
             <div class="carousel-item">
-                <img src="assets/img/halt-and-catch-fire-wallpapers-31581-4110166.jpg" alt="" class="d-block w-100">
+                <img src="assets/img/Photosachetees/PhotoSlide/45334047_lweb.jpg" alt="" class="d-block w-100">
             </div>
             <div class="carousel-item ">
-                <img src="assets/img/comment-isoler-une-porte-du-bruit-design-de-maison-bon-comment-isoler-une-porte-d-entree-du-bruit-ment-isoler-un-bas-1900-x-800-pixels.jpg" alt="" class="d-block w-100">
+                <img src="assets/img/Photosachetees/PhotoSlide/51687969_lweb.jpg" alt="" class="d-block w-100">
             </div>
         </div>
         <!-- On n' pas besoin cette partie - c'est des "flesh"
@@ -125,31 +137,43 @@
 
 <!-- Conteneur avec contenu -->
 <div class="container-fluid-1" >
-    <div class="container-1"><h6>Qui sommes-nous?</h6><p>In ultrices euismod velit ut rhoncus. Nam ullamcorper sapien vel elit placerat vestibulum. Nullam quam nunc, sodales sed massa nec, condimentum molestie eros. Morbi pharetra tellus a mauris interdum, quis faucibus neque blandit. Maecenas a facilisis nulla. Nullam vitae eros convallis, consectetur lorem ut, iaculis mauris. Quisque eget quam elit. Nulla volutpat mauris eu mauris hendrerit, vel fringilla neque cursus. Etiam ac odio dapibus, maximus justo in, aliquam quam.</p></div>
+    <div class="container-1"><h6>Qui sommes-nous?</h6><p>Depuis 1992, l'objectif de l'a.s.b.l. Cobeff est de coordonner et d'organiser dans différents secteurs des programmes d'insertion socio-professionnelle pour femmes peu scolarisées, confrontées aux difficultés d'une société en crise et qui refusent l'exclusion.
+            La Cobeff se veut un réseau d'échanges et de soutien, de prospection et de recherche dans les secteurs de l'emploi et de la formation. Elle soutient également des projets d'insertion socio-professionnelle par la création d'entreprises solidaires.
+
+            La Cobeff travaille en partenariat avec des centres de formation de base et de préformation afin de développer le parcours d'insertion des personnes.</p></div>
     <div class="container-2">
+        <div id="demo" class="carousel slide" data-ride="carousel">
 
-        <div id="carouselExampleIndicators1" class="carousel fade" data-ride="carousel">
-            <ol class="carousel-indicators carousel-indicators--round">
-                <li class="active" data-target="#carouselExampleIndicators1" data-slide-to="0"></li>
-                <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
-            </ol>
 
+
+            <!-- The slideshow -->
             <div class="carousel-inner">
-                <div class="carousel-item active"> <!-- Les photos -->
-                    <img src="./assets/img/Photosachetees/PhotoSlide/aidepersonne4.jpg" alt="" class="d-block w-100">
+                <div class="carousel-item active">
+                    <img src="assets/img/Photosachetees/PhotoSlide/51687969_lpt.jpg" alt="Los Angeles" >
                 </div>
                 <div class="carousel-item">
-                    <img src="./assets/img/Photosachetees/PhotoSlide/aidepersonne2.jpg" alt="" class="d-block w-100">
+                    <img src="assets/img/Photosachetees/PhotoSlide/45334047_lpt.jpg" alt="Chicago" >
                 </div>
-                <div class="carousel-item ">
-                    <img src="./assets/img/Photosachetees/PhotoSlide/aidepersonne3.jpg" alt="" class="d-block w-100">
+                <div class="carousel-item">
+                    <img src="assets/img/Photosachetees/PhotoSlide/2752247_lpt.jpg" alt="New York" >
                 </div>
             </div>
-        </div>
-        <div id="texte"><p>Nunc sollicitudin lectus a sapien interdum, quis auctor nibh luctus. Vestibulum odio mi, iaculis et sagittis a, euismod ut justo. Suspendisse potenti. Fusce vulputate, sem nec porta vehicula, neque lorem volutpat arcu, et faucibus erat leo eu erat. Nullam sollicitudin diam at odio rutrum feugiat. Sed id nulla pellentesque, egestas nunc pretium, interdum mauris. Nulla sollicitudin magna vitae aliquet iaculis. Donec scelerisque augue lorem, eu mattis nisl porttitor non. Mauris pellentesque auctor arcu, bibendum sagittis erat dignissim non.</p></div>
-    </div>
-</div>
+
+
+            <!-- Left and right controls -->
+
+          </div>
+
+
+          </div>
+          <div id="texte"><p>Acquérir des compétences professionnelles,
+                  Développer un savoir faire adéquat,
+                  Viser un métier,
+                  Accéder à un emploi.</p>
+
+                 <p> Mais aussi, apprendre à se connaître soi-même, reconstruire la confiance en ses capacités personnelles, entrer en contact avec le monde environnant et développer ses capacités de participation.</p></div>
+
+  </div>
 
 
 
@@ -157,15 +181,15 @@
 
 
 
-  <script src="assets/js/jquery.js"></script>
-  <script src="assets/js/bootstrap.js"></script>
-  <script src="assets/js/jquery-ui.js"></script>
-  <script>
-      $(function () {
-          $("#menu").menu();
-      });
-  </script>
-  <!-- Slider bootstrap script options-->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+    <script src="assets/js/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#menu").menu();
+        });
+    </script>
+    <!-- Slider bootstrap script options-->
 <script src="assets/js/slider.js"></script>
 
         </body>
