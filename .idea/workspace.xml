@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7550be2b-ce78-4e83-a815-25b94fe6a439" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/v/menu.php" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change afterPath="$PROJECT_DIR$/v/process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v/nousContacter.php" beforeDir="false" afterPath="$PROJECT_DIR$/v/nousContacter.php" afterDir="false" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,17 +34,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="612">
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+=======
+            <state relative-caret-position="317">
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
               <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v/menu.php">
+=======
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="799">
               <caret line="47" selection-start-line="47" selection-end-line="47" />
@@ -157,7 +183,65 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
+<<<<<<< HEAD
     <panes />
+=======
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="cssMenuResto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+              <item name="c" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cobeff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cobeff" type="462c0819:PsiDirectoryNode" />
+              <item name="v" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ui-a&#9;null&#9;null" />
@@ -216,6 +300,10 @@
       <workItem from="1535010987132" duration="9044000" />
       <workItem from="1535369378041" duration="10136000" />
       <workItem from="1535398253165" duration="2266000" />
+<<<<<<< HEAD
+      <workItem from="1535483358007" duration="7861000" />
+      <workItem from="1536068381079" duration="31000" />
+=======
       <workItem from="1535483358007" duration="7317000" />
       <workItem from="1535527421024" duration="9256000" />
       <workItem from="1535614705573" duration="17064000" />
@@ -224,13 +312,48 @@
       <workItem from="1536233052990" duration="2202000" />
       <workItem from="1536237666611" duration="1283000" />
       <workItem from="1536238974448" duration="4324000" />
+<<<<<<< HEAD
       <workItem from="1536306318712" duration="12488000" />
       <workItem from="1536738966171" duration="483000" />
+=======
+      <workItem from="1536306318712" duration="12047000" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="92532000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="38165000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="91608000" />
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -255,7 +378,11 @@
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+=======
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -287,8 +414,105 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/v/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/entretien.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/auxiliaire.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/jury.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/cess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/vendeuse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c/controllerPublic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="146" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/jquery-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3264">
+          <caret line="192" column="18" lean-forward="false" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+        </state>
+      </provider>
+=======
     <entry file="file://$PROJECT_DIR$/assets/css/jquery-ui.theme.css">
       <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -301,16 +525,26 @@
     <entry file="file://$PROJECT_DIR$/test.php" />
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state relative-caret-position="782">
           <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v/home.php" />
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+=======
         <state>
           <caret lean-forward="true" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
@@ -329,7 +563,11 @@
     <entry file="file://$PROJECT_DIR$/assets/css/jquery-ui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3264">
+<<<<<<< HEAD
+          <caret line="192" column="18" lean-forward="true" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+=======
           <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
@@ -343,6 +581,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v/cess.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="11" lean-forward="false" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+=======
         <state>
           <caret selection-end-line="18" selection-end-column="7" />
         </state>
@@ -350,6 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../basePHP/modelevuecontroleur/Vues/GaleriePhoto.html">
       <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
     </entry>
     <entry file="file://$PROJECT_DIR$/../basePHP/modelevuecontroleur/Vues/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -378,11 +630,39 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/jsMenuResto/modernizr.custom.js">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
+        </state>
+      </provider>
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/cssMenuResto/style12.css" />
     <entry file="file://$PROJECT_DIR$/assets/css/cssMenuResto/style7.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="3264">
+          <caret line="192" column="18" lean-forward="false" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+=======
         <state relative-caret-position="629">
           <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
         </state>
@@ -390,11 +670,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/cssMenuResto/normalize.css">
       <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/cssMenuResto/demo.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+=======
         <state relative-caret-position="799">
           <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="50" selection-end-column="17" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
@@ -404,14 +690,22 @@
     <entry file="file://$PROJECT_DIR$/v/cuisine.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
+<<<<<<< HEAD
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+=======
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v/entretien.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
+<<<<<<< HEAD
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+=======
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
@@ -420,13 +714,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v/menu.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="85">
+          <caret line="5" column="73" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+=======
         <state relative-caret-position="374">
           <caret line="22" column="113" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="113" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v/resto.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/cuisine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/seFormer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/vendeuse.php">
+      <provider selected="true" editor-type-id="text-editor">
+=======
         <state relative-caret-position="4097">
           <caret line="209" column="35" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="209" selection-end-column="35" />
         </state>
@@ -434,6 +756,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v/seFormer.php">
       <provider selected="true" editor-type-id="text-editor">
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         <state relative-caret-position="170">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
@@ -461,6 +784,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v/services.php">
+<<<<<<< HEAD
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
@@ -468,6 +793,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
@@ -481,10 +807,44 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/assets/js/scripts.js" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
+=======
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="17">
+          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c/controllerPublic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+=======
+        <state relative-caret-position="317">
+>>>>>>> cb9b082302d4a0dfd9c79955c1e3c03f84aee425
           <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
         </state>
       </provider>
@@ -496,6 +856,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="827">
           <caret line="73" column="114" selection-start-line="73" selection-start-column="114" selection-end-line="73" selection-end-column="114" />
+>>>>>>> ea70f260b45288a85958faffd80042055d3e54b9
         </state>
       </provider>
     </entry>
